@@ -27,8 +27,8 @@ def web_hook():
 
     task_state = task_state_map.get(type)
 
-    task_id = response['data']['task']['taskId']
+    task_id = response['db']['task']['taskId']
     task_url = 'https://www.teambition.com/task/{}'.format(task_id)
 
-    task_content = response['data']['task']['content']
+    task_content = response['db']['task']['content']
 """
