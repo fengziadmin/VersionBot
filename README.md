@@ -1,5 +1,17 @@
 # VersionBot
- 将Teambition的迭代内容同步到飞书自定义机器人
+
+将Teambition的迭代内容同步到飞书自定义机器人
+
+# 适用范围
+
+适用于公司内部采用Teambition与飞书的公司
+
+用于解决公司研发与市场部门的自动信息同步
+
+效果如下
+
+![image](https://user-images.githubusercontent.com/5696815/224489283-4e600683-eb5d-420c-8129-3c21b9e3a4dd.png)
+
  
 ## 环境要求
 推荐python >=3.9
